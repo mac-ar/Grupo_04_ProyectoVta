@@ -7,6 +7,7 @@
   #Leandro Loto
   #Agustin Ingacio Miranda
   #Lourdes Natalia Castillo
+  #Maria Constanza Fontenla
 
 #Descripcion del Sitio
 Este es un sitio de ventas de productos de Lineas Blancas entre los cuales ofrecemos los siguientes productos:
