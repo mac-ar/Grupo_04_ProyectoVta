@@ -3,7 +3,9 @@
 ## Hola somos el equipo de ElectroHouse ✋:
 
 ##Integrantes del Grupo 👷‍♂️:
-- Daniel Mora Sole:
+- Daniel Mora Sole: Recido en Santiago el Estero, tengo 51 años, 
+trabajo en el Poder Judicial de Santiago del Estero en el Area de Informatica.
+email: dmorasole@hotmail.com
 - Marcelo Campos:
 - Roque Peralta:  
 - Leandro Loto:
